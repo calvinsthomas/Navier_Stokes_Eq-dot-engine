@@ -1,0 +1,66 @@
+MCP server started successfully (version github-mcp-server/remote-ba40e46d3a619107be209a8d826af47f9e721362) with 40 tools - for the full output, see the verbose logs
+
+- download_workflow_run_artifact
+- get_code_scanning_alert
+- get_commit
+- get_file_contents
+- get_issue
+- get_issue_comments
+- get_job_logs
+- get_latest_release
+- get_pull_request
+- get_pull_request_diff
+- get_pull_request_files
+- get_pull_request_review_comments
+- get_pull_request_reviews
+- get_pull_request_status
+- get_release_by_tag
+- get_secret_scanning_alert
+- get_tag
+- get_workflow_run
+- get_workflow_run_logs
+- get_workflow_run_usage
+- list_branches
+- list_code_scanning_alerts
+- list_commits
+- list_issue_types
+- list_issues
+- list_pull_requests
+- list_releases
+- list_secret_scanning_alerts
+- list_starred_repositories
+- list_sub_issues
+- list_tags
+- list_workflow_jobs
+- list_workflow_run_artifacts
+- list_workflow_runs
+- list_workflows
+- search_code
+- search_issues
+- search_pull_requests
+- search_repositories
+- search_users
+MCP server started successfully (version 0.0.35) with 21 tools - for the full output, see the verbose logs
+
+- browser_close
+- browser_resize
+- browser_console_messages
+- browser_handle_dialog
+- browser_evaluate
+- browser_file_upload
+- browser_fill_form
+- browser_install
+- browser_press_key
+- browser_type
+- browser_navigate
+- browser_navigate_back
+- browser_network_requests
+- browser_take_screenshot
+- browser_snapshot
+- browser_click
+- browser_drag
+- browser_hover
+- browser_select_option
+- browser_tabs
+- browser_wait_for
+Copilot is working…
