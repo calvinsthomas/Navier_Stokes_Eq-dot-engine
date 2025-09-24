@@ -1,0 +1,11 @@
+MY IP PRIVATE ONLY RESEARCH; INFO-HIDDEN IMPL. FOR MY SUBS TO SUPERS SUB-REPO TO SUB-FOLDER NAMING CONVENTIONS ACROSS ALL TYPES OF FILES.:
+
+XML EDGE CASE NAMING CONVENTION no dot 1:
+
+"""
+Characters to avoid
+While XML element names have their own rules, file naming conventions are influenced by operating system and web standards. In addition to avoiding spaces, it is best to stay away from the following characters in your file names to ensure maximum compatibility: 
+@ $ % & * ! ^ ?
+/ \ | : < > " '
+[ ] { } + =
+"""

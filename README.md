@@ -1,3 +1,4 @@
+copilot/fix-e087342b-608b-473e-81bf-7ea60b01ae4e
 # Navier-Stokes Equation Dot Engine
 
 A Python implementation of 2D vector dot product operations specifically designed for fluid dynamics calculations and Navier-Stokes equation computations.
@@ -117,3 +118,7 @@ This dot engine is particularly useful for:
 ## BTSIM METHODOLOGY IP PROCESS
 
 This implementation follows BTSIM methodology principles for numerical computation in fluid dynamics applications. 
+=======
+<iframe src="https://github.com/sponsors/calvinsthomas/card" title="Sponsor calvinsthomas" height="225" width="600" style="border: 0;"></iframe>
+@BTSIM TEAM IP CLOSE-KNIT TEAM DEFINED MY IP PROCESSES!
+main

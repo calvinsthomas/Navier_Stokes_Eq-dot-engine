@@ -1,0 +1,4 @@
+Defining failure scenarios
+Running controlled experiments
+Monitoring system behavior and response
+Ensuring minimal impact on users
