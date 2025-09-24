@@ -1,6 +1,5 @@
 # Navier_Stokes_Eq-dot-engine
 BTSIM METHODOLOGY IP PROCESS 
 
-https://x.com/TestTempAI/status/1970654004527907315
+<img width="2563" height="92" alt="image" src="https://github.com/user-attachments/assets/f6aa3125-a04b-4fa0-b59f-8638622c9890" />
 
-<img width="909" height="508" alt="Screenshot 2025-09-23 205816" src="https://github.com/user-attachments/assets/164ed950-a67a-41d9-8509-d6d858706c15" />
